@@ -1,0 +1,58 @@
+2020-04-26 22:02:58,452 - __main__ - INFO [line:49] - Data loading is finished.
+2020-04-26 22:02:58,572 - __main__ - INFO [line:67] - DFNet declaration is finished.
+2020-04-26 22:03:54,912 - __main__ - INFO [line:162] - Epoch: 0-0 | recon_loss: 305.659973 | perceptual_loss: 61.210869 | style_loss: 199511.781250 | total_variation_loss: 0.012628
+2020-04-26 22:08:50,257 - __main__ - INFO [line:49] - Data loading is finished.
+2020-04-26 22:08:50,376 - __main__ - INFO [line:67] - DFNet declaration is finished.
+2020-04-26 22:10:14,298 - __main__ - INFO [line:162] - Epoch: 0-0 | recon_loss: 301.017792 | perceptual_loss: 60.981331 | style_loss: 202885.062500 | total_variation_loss: 0.012999
+2020-04-26 22:11:39,191 - __main__ - INFO [line:162] - Epoch: 0-1 | recon_loss: 247.655640 | perceptual_loss: 58.781593 | style_loss: 201206.343750 | total_variation_loss: 0.017601
+2020-04-26 22:12:57,881 - __main__ - INFO [line:162] - Epoch: 0-2 | recon_loss: 228.377533 | perceptual_loss: 56.951454 | style_loss: 197904.500000 | total_variation_loss: 0.017402
+2020-04-26 22:15:21,593 - __main__ - INFO [line:49] - Data loading is finished.
+2020-04-26 22:15:21,714 - __main__ - INFO [line:67] - DFNet declaration is finished.
+2020-04-26 22:15:55,796 - __main__ - INFO [line:49] - Data loading is finished.
+2020-04-26 22:15:55,916 - __main__ - INFO [line:67] - DFNet declaration is finished.
+2020-04-26 22:16:19,315 - __main__ - INFO [line:49] - Data loading is finished.
+2020-04-26 22:16:19,436 - __main__ - INFO [line:67] - DFNet declaration is finished.
+2020-04-26 22:16:54,840 - __main__ - INFO [line:49] - Data loading is finished.
+2020-04-26 22:16:54,960 - __main__ - INFO [line:67] - DFNet declaration is finished.
+2020-04-26 22:17:47,932 - __main__ - INFO [line:162] - Epoch: 0-0 | recon_loss: 348.726318 | perceptual_loss: 63.921822 | style_loss: 187933.890625 | total_variation_loss: 0.012867
+2020-04-26 22:18:26,566 - __main__ - INFO [line:49] - Data loading is finished.
+2020-04-26 22:18:26,688 - __main__ - INFO [line:67] - DFNet declaration is finished.
+2020-04-26 22:19:21,520 - __main__ - INFO [line:162] - Epoch: 0-0 | recon_loss: 483.805969 | perceptual_loss: 74.864883 | style_loss: 255276.500000 | total_variation_loss: 0.013296
+2020-04-26 22:20:46,003 - __main__ - INFO [line:162] - Epoch: 0-1 | recon_loss: 462.553925 | perceptual_loss: 73.224915 | style_loss: 242945.343750 | total_variation_loss: 0.014157
+2020-04-26 22:22:07,322 - __main__ - INFO [line:162] - Epoch: 0-2 | recon_loss: 445.891296 | perceptual_loss: 72.747696 | style_loss: 232506.906250 | total_variation_loss: 0.014648
+2020-04-26 22:23:34,339 - __main__ - INFO [line:162] - Epoch: 0-3 | recon_loss: 432.501099 | perceptual_loss: 72.799942 | style_loss: 230654.125000 | total_variation_loss: 0.016497
+2020-04-26 22:24:57,121 - __main__ - INFO [line:162] - Epoch: 0-4 | recon_loss: 422.985016 | perceptual_loss: 72.482956 | style_loss: 230485.703125 | total_variation_loss: 0.011891
+2020-04-26 22:26:25,161 - __main__ - INFO [line:162] - Epoch: 0-5 | recon_loss: 415.782104 | perceptual_loss: 72.007126 | style_loss: 229050.375000 | total_variation_loss: 0.011127
+2020-04-26 22:27:48,039 - __main__ - INFO [line:162] - Epoch: 0-6 | recon_loss: 409.779785 | perceptual_loss: 72.016724 | style_loss: 227470.812500 | total_variation_loss: 0.012676
+2020-04-26 22:29:16,019 - __main__ - INFO [line:162] - Epoch: 0-7 | recon_loss: 404.246643 | perceptual_loss: 71.692123 | style_loss: 225594.671875 | total_variation_loss: 0.017429
+2020-04-26 22:30:38,996 - __main__ - INFO [line:162] - Epoch: 0-8 | recon_loss: 398.306763 | perceptual_loss: 70.740707 | style_loss: 222796.671875 | total_variation_loss: 0.012675
+2020-04-26 22:32:07,732 - __main__ - INFO [line:162] - Epoch: 0-9 | recon_loss: 392.084778 | perceptual_loss: 70.403366 | style_loss: 218766.093750 | total_variation_loss: 0.014374
+2020-04-26 22:33:31,073 - __main__ - INFO [line:162] - Epoch: 0-10 | recon_loss: 382.380524 | perceptual_loss: 69.513794 | style_loss: 213195.843750 | total_variation_loss: 0.013233
+2020-04-26 22:35:00,173 - __main__ - INFO [line:162] - Epoch: 0-11 | recon_loss: 372.014618 | perceptual_loss: 68.432869 | style_loss: 206903.000000 | total_variation_loss: 0.013087
+2020-04-26 22:36:23,638 - __main__ - INFO [line:162] - Epoch: 0-12 | recon_loss: 361.871521 | perceptual_loss: 67.584076 | style_loss: 203720.218750 | total_variation_loss: 0.011597
+2020-04-26 22:37:30,817 - __main__ - INFO [line:217] - Epoch: 0 | recon_loss: 358.891 | perceptual_loss: 68.242 | style_loss: 203251.359 | total_variation_loss: 0.016 | sn_gan_gen_loss: 10.414 | sn_gan_dis_loss: 18.942
+2020-04-26 22:38:38,138 - __main__ - INFO [line:162] - Epoch: 1-0 | recon_loss: 355.019012 | perceptual_loss: 68.144821 | style_loss: 202776.468750 | total_variation_loss: 0.014129
+2020-04-26 22:40:07,897 - __main__ - INFO [line:162] - Epoch: 1-1 | recon_loss: 348.410858 | perceptual_loss: 68.026077 | style_loss: 203249.359375 | total_variation_loss: 0.013558
+2020-04-26 22:41:32,683 - __main__ - INFO [line:162] - Epoch: 1-2 | recon_loss: 344.904327 | perceptual_loss: 68.158882 | style_loss: 202963.843750 | total_variation_loss: 0.016611
+2020-04-26 22:43:03,446 - __main__ - INFO [line:162] - Epoch: 1-3 | recon_loss: 339.577118 | perceptual_loss: 67.231827 | style_loss: 201554.671875 | total_variation_loss: 0.015734
+2020-04-26 22:44:31,823 - __main__ - INFO [line:162] - Epoch: 1-4 | recon_loss: 332.916412 | perceptual_loss: 67.070236 | style_loss: 199101.250000 | total_variation_loss: 0.013662
+2020-04-26 22:46:07,865 - __main__ - INFO [line:162] - Epoch: 1-5 | recon_loss: 324.614594 | perceptual_loss: 66.071266 | style_loss: 195132.187500 | total_variation_loss: 0.014610
+2020-04-26 22:47:34,105 - __main__ - INFO [line:162] - Epoch: 1-6 | recon_loss: 314.518982 | perceptual_loss: 65.365997 | style_loss: 190706.125000 | total_variation_loss: 0.016485
+2020-04-26 22:49:04,592 - __main__ - INFO [line:162] - Epoch: 1-7 | recon_loss: 301.975342 | perceptual_loss: 63.110123 | style_loss: 185336.125000 | total_variation_loss: 0.013521
+2020-04-26 22:50:29,494 - __main__ - INFO [line:162] - Epoch: 1-8 | recon_loss: 290.943054 | perceptual_loss: 60.598595 | style_loss: 180294.125000 | total_variation_loss: 0.017959
+2020-04-26 22:51:58,980 - __main__ - INFO [line:162] - Epoch: 1-9 | recon_loss: 280.251404 | perceptual_loss: 57.838394 | style_loss: 174433.875000 | total_variation_loss: 0.014705
+2020-04-26 22:53:23,791 - __main__ - INFO [line:162] - Epoch: 1-10 | recon_loss: 272.520966 | perceptual_loss: 55.971382 | style_loss: 169288.250000 | total_variation_loss: 0.012963
+2020-04-26 22:54:53,558 - __main__ - INFO [line:162] - Epoch: 1-11 | recon_loss: 265.197937 | perceptual_loss: 54.580360 | style_loss: 164525.343750 | total_variation_loss: 0.011997
+2020-04-26 22:56:17,846 - __main__ - INFO [line:162] - Epoch: 1-12 | recon_loss: 259.089203 | perceptual_loss: 53.047283 | style_loss: 161645.937500 | total_variation_loss: 0.012039
+2020-04-26 22:57:24,939 - __main__ - INFO [line:217] - Epoch: 1 | recon_loss: 257.728 | perceptual_loss: 53.780 | style_loss: 163405.062 | total_variation_loss: 0.017 | sn_gan_gen_loss: 12.804 | sn_gan_dis_loss: 19.924
+2020-04-26 23:00:02,924 - __main__ - INFO [line:49] - Data loading is finished.
+2020-04-26 23:00:03,043 - __main__ - INFO [line:67] - DFNet declaration is finished.
+2020-04-26 23:00:56,523 - __main__ - INFO [line:162] - Epoch: 0-0 | recon_loss: 335.989746 | perceptual_loss: 69.935211 | style_loss: 206698.875000 | total_variation_loss: 0.013046
+2020-04-26 23:02:25,004 - __main__ - INFO [line:162] - Epoch: 0-1 | recon_loss: 330.003235 | perceptual_loss: 64.047302 | style_loss: 169333.062500 | total_variation_loss: 0.015654
+2020-04-26 23:02:46,450 - __main__ - INFO [line:49] - Data loading is finished.
+2020-04-26 23:02:46,571 - __main__ - INFO [line:67] - DFNet declaration is finished.
+2020-04-26 23:03:45,917 - __main__ - INFO [line:162] - Epoch: 0-0 | recon_loss: 426.212402 | perceptual_loss: 63.078285 | style_loss: 179206.625000 | total_variation_loss: 0.015189
+2020-04-26 23:06:57,363 - __main__ - INFO [line:162] - Epoch: 0-1 | recon_loss: 397.895660 | perceptual_loss: 61.206802 | style_loss: 176455.531250 | total_variation_loss: 0.017277
+2020-04-26 23:08:23,755 - __main__ - INFO [line:162] - Epoch: 0-2 | recon_loss: 383.731079 | perceptual_loss: 58.899811 | style_loss: 168431.593750 | total_variation_loss: 0.012453
+2020-04-26 23:10:11,029 - __main__ - INFO [line:162] - Epoch: 0-3 | recon_loss: 368.469879 | perceptual_loss: 57.958206 | style_loss: 166914.625000 | total_variation_loss: 0.014415
+2020-04-26 23:11:37,740 - __main__ - INFO [line:162] - Epoch: 0-4 | recon_loss: 354.165527 | perceptual_loss: 57.504311 | style_loss: 166024.734375 | total_variation_loss: 0.016623
