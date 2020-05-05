@@ -80,6 +80,7 @@ def show_batch(image_batch):
 
 # exampled data for plotting results
 example_data = next(iter(imgs.valid_data))
+print('Example',example_data)
 show_batch(example_data.numpy())
 #plt.show()
 
